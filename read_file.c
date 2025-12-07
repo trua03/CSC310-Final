@@ -1,12 +1,6 @@
 /*
 ** Program to read a file from a QFS disk image
-**
-** Usage: read_file <disk image> <file to read> <output file>
-**
-** Reads a file from the QFS disk by following the block chain
-** and writes it to the local filesystem.
-**
-** Authors: [İsimlerinizi buraya yazın]
+** Authors: Tuana Turhan and Thomas Rua
 ** Date: December 2025
 */
 

@@ -1,20 +1,6 @@
 /*
 ** Program to make a filesystem on a blank file using the qfs parameters
-**
-** Usage: mkfs_qfs <disk image file> [<label>]
-**
-** To create a blank file of a specific size, you can use the following command:
-**   dd if=/dev/zero of=<disk image file> bs=1M count=<size in MB>
-**
-** Example:
-**   dd if=/dev/zero of=disk.img bs=1M count=4
-**
-** Then run:
-**   mkfs_qfs disk.img MyVolume
-**
-** This will format 'disk.img' as a 4MB QFS filesystem with the label 'MyVolume'.
-**
-** Authors: [İsimlerinizi buraya yazın]
+** Authors: Tuana Turhan and Thomas Rua
 ** Date: December 2025
 */
 

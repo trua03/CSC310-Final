@@ -1,13 +1,6 @@
 /*
 ** Program to recover deleted JPG files from a QFS disk image
-**
-** Usage: recover_files <disk image>
-**
-** Simple, reliable approach: Extract clean data, find JPG signatures
-**
-** Recovered files are saved as recovered_file_1.jpg, recovered_file_2.jpg, etc.
-**
-** Authors: [Your names here]
+** Authors: Tuana Turhan and Thomas Rua
 ** Date: December 2025
 */
 

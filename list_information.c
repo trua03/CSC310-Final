@@ -1,15 +1,6 @@
 /*
 ** Program to list information about a QFS disk image
-**
-** Usage: list_information <disk image file>
-**
-** Displays:
-**   - Block size
-**   - Total and free blocks
-**   - Total and free directory entries
-**   - List of files with their properties
-**
-** Authors: [İsimlerinizi buraya yazın]
+** Authors: Tuana Turhan and Thomas Rua
 ** Date: December 2025
 */
 

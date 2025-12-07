@@ -1,9 +1,8 @@
 /*
 **
 ** Header file containing definitions for the QFS (Quinnipiac File System)
-**
-** Usage: #include "qfs.h"
-**
+**Authors: Tuana Turhan and Thomas Rua
+** Date: December 2025
 */
 
 #include <stdio.h>
